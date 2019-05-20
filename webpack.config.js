@@ -18,7 +18,8 @@
      stats: {
          colors: true
      },
-     target: "node",
+     target: "web",
+         externals: /k6(\/.*)?/,
      devtool: 'source-map'
  };
 
