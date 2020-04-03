@@ -1,3 +1,7 @@
+> ### ⚠️ This repo has moved
+>
+> Look at [k6io/k6-es6](https://github.com/k6io/k6-es6) for up to date version
+
 ## What is this?
 This is a small proof of concept that you can use node.js+webpack+babel+browserify to automatically generate a
 single js file that could be ran by k6.
